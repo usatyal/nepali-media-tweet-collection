@@ -1,5 +1,5 @@
 # nepali-media-tweet-collection
-Tweets by Nepali news media (in alphabetical order)<br />
+Tweets by Nepali news media <br />
 @Annapurna_Post (http://annapurnapost.com/)<br />
 @nagarik_news (https://nagariknews.nagariknetwork.com/)<br />
 @RepublicaNepal (https://myrepublica.nagariknetwork.com/)<br />
