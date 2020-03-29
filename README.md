@@ -1,2 +1,16 @@
-# nepali-news-tweet-collection
-Tweets by Nepali news media
+# nepali-media-tweet-collection
+Tweets by Nepali news media (in alphabetical order)
+@Annapurna_Post (http://annapurnapost.com/)
+@nagarik_news (https://nagariknews.nagariknetwork.com/)
+@RepublicaNepal (https://myrepublica.nagariknetwork.com/)
+@NAYA_PATRIKA (http://nayapatrikadaily.com)
+@setopati (https://www.setopati.com/)
+@Himal_Khabar (https://www.himalkhabar.com/)
+@nepalkhabar (https://www.nepalkhabar.com/)
+@Swasthyakhabar (https://swasthyakhabar.com/)
+@NepalLive1 (https://nepallive.com/)
+@PahiloPost (https://pahilopost.com/)
+@ekantipur_com (https://ekantipur.com/)
+@thehimalayan (https://thehimalayantimes.com/)
+@kathmandupost (https://kathmandupost.com/)
+## This repo will be periodically updated 
