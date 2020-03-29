@@ -1,5 +1,5 @@
 # nepali-media-tweet-collection
-Tweets by Nepali news media <br />
+Tweets by Nepali news media in csv format <br />
 @Annapurna_Post (http://annapurnapost.com/)<br />
 @nagarik_news (https://nagariknews.nagariknetwork.com/)<br />
 @RepublicaNepal (https://myrepublica.nagariknetwork.com/)<br />
@@ -13,4 +13,4 @@ Tweets by Nepali news media <br />
 @ekantipur_com (https://ekantipur.com/)<br />
 @thehimalayan (https://thehimalayantimes.com/)<br />
 @kathmandupost (https://kathmandupost.com/)<br />
-## This repo will be periodically updated 
+## I will try to update the repo periodically. Please, feel free to use the data. 
